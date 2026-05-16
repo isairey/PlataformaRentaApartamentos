@@ -1,0 +1,15 @@
+# OS Files
+.DS_Store
+
+#swap files
+*.swp
+
+#python bytecode
+*.pyc
+
+#dev
+tags
+
+./sparkVideoProcessor/test/*
+node_modules/
+bower_components/
