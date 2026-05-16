@@ -148,7 +148,7 @@ Además, el sistema fue utilizado para probar herramientas del laboratorio **Ber
 # 📂 Estructura del proyecto
 
 ```bash
-Apartment-Rental-System/
+PlataformaRentaApartamentos/
 │
 ├── quilt-spec/              # Configuración Quilt
 ├── server/                  # Backend principal
@@ -184,7 +184,7 @@ Apartment-Rental-System/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/Apartment-Rental-System.git
+git clone https://github.com/isairey/PlataformaRentaApartamentos.git
 ```
 
 ---
@@ -192,7 +192,7 @@ git clone https://github.com/isairey/Apartment-Rental-System.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd Apartment-Rental-System
+cd PlataformaRentaApartamentos
 ```
 
 ---
